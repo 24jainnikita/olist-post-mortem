@@ -1,0 +1,12 @@
+{
+  "total_delivered_orders": 96470,
+  "total_revenue": 13221498.11001369,
+  "overall_bad_review_rate": 12.806786877034812,
+  "late_delivery_rate": 8.112366538820359,
+  "late_bad_review_rate": 54.066048818692074,
+  "ontime_bad_review_rate": 9.22,
+  "seven_plus_days_late_bad_review_rate": 78.44403444034441,
+  "excess_bad_reviews": 3436.0,
+  "excess_as_pct_of_all_bad": 28.0,
+  "repeat_purchase_rate": 3.0002784978255748
+}

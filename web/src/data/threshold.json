@@ -1,0 +1,98 @@
+[
+  {
+    "threshold_days": 0,
+    "share_exceeding_pct": 7.9948655869093335,
+    "avg_score_above": 2.565069834225297,
+    "avg_score_below": 4.294114310992139
+  },
+  {
+    "threshold_days": 1,
+    "share_exceeding_pct": 6.659083319418935,
+    "avg_score_above": 2.270490518727472,
+    "avg_score_below": 4.290386055923885
+  },
+  {
+    "threshold_days": 2,
+    "share_exceeding_pct": 5.803347804307898,
+    "avg_score_above": 2.055026074447042,
+    "avg_score_below": 4.2853107031674105
+  },
+  {
+    "threshold_days": 3,
+    "share_exceeding_pct": 5.243988979796293,
+    "avg_score_above": 1.9351243781094527,
+    "avg_score_below": 4.278780603310609
+  },
+  {
+    "threshold_days": 4,
+    "share_exceeding_pct": 4.726373351143764,
+    "avg_score_above": 1.8531684698608963,
+    "avg_score_below": 4.270113368749658
+  },
+  {
+    "threshold_days": 5,
+    "share_exceeding_pct": 4.271372516279847,
+    "avg_score_above": 1.784510139262155,
+    "avg_score_below": 4.261689069126032
+  },
+  {
+    "threshold_days": 6,
+    "share_exceeding_pct": 3.818458841208883,
+    "avg_score_above": 1.7365400382618201,
+    "avg_score_below": 4.2519286063039115
+  },
+  {
+    "threshold_days": 7,
+    "share_exceeding_pct": 3.393721823342795,
+    "avg_score_above": 1.7272447724477245,
+    "avg_score_below": 4.241196041999741
+  },
+  {
+    "threshold_days": 8,
+    "share_exceeding_pct": 2.9021956921021874,
+    "avg_score_above": 1.6961524631427545,
+    "avg_score_below": 4.229399309996453
+  },
+  {
+    "threshold_days": 9,
+    "share_exceeding_pct": 2.5578143262648187,
+    "avg_score_above": 1.6944104447164423,
+    "avg_score_below": 4.2204920051835115
+  },
+  {
+    "threshold_days": 10,
+    "share_exceeding_pct": 2.329270328936383,
+    "avg_score_above": 1.6971326164874552,
+    "avg_score_below": 4.214516197965638
+  },
+  {
+    "threshold_days": 11,
+    "share_exceeding_pct": 2.1132492903656703,
+    "avg_score_above": 1.7091358024691359,
+    "avg_score_below": 4.208701585304747
+  },
+  {
+    "threshold_days": 12,
+    "share_exceeding_pct": 1.9285356486892637,
+    "avg_score_above": 1.7072510822510822,
+    "avg_score_below": 4.2040308163786495
+  },
+  {
+    "threshold_days": 13,
+    "share_exceeding_pct": 1.7667807647353482,
+    "avg_score_above": 1.71116361488482,
+    "avg_score_below": 4.199849146402354
+  },
+  {
+    "threshold_days": 14,
+    "share_exceeding_pct": 1.569544164301219,
+    "avg_score_above": 1.7087765957446808,
+    "avg_score_below": 4.194900339270569
+  },
+  {
+    "threshold_days": 15,
+    "share_exceeding_pct": 1.3931791617966272,
+    "avg_score_above": 1.7235955056179775,
+    "avg_score_below": 4.190244367069183
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "sort_order": 1,
+    "part": "summary",
+    "metric": "repeat_rate",
+    "val_1": "93358",
+    "val_2": "2801",
+    "val_3": "3.0",
+    "val_4": "1.033",
+    "val_5": "15"
+  },
+  {
+    "sort_order": 2,
+    "part": "bucket_breakdown",
+    "metric": "1_order",
+    "val_1": "90557",
+    "val_2": "97.0",
+    "val_3": null,
+    "val_4": null,
+    "val_5": null
+  },
+  {
+    "sort_order": 2,
+    "part": "bucket_breakdown",
+    "metric": "2_orders",
+    "val_1": "2573",
+    "val_2": "2.76",
+    "val_3": null,
+    "val_4": null,
+    "val_5": null
+  },
+  {
+    "sort_order": 2,
+    "part": "bucket_breakdown",
+    "metric": "3_or_more_orders",
+    "val_1": "228",
+    "val_2": "0.24",
+    "val_3": null,
+    "val_4": null,
+    "val_5": null
+  }
+]

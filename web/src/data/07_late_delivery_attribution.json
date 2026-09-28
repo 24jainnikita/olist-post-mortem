@@ -1,0 +1,42 @@
+[
+  {
+    "sort_order": 1,
+    "part": "A_by_status",
+    "delivery_status": "late",
+    "col1": "7826",
+    "col2": "7661",
+    "col3": "4142",
+    "col4": "54.07",
+    "col5_pct_of_all_bad_reviews": "33.8"
+  },
+  {
+    "sort_order": 1,
+    "part": "A_by_status",
+    "delivery_status": "on_time",
+    "col1": "88644",
+    "col2": "88163",
+    "col3": "8130",
+    "col4": "9.22",
+    "col5_pct_of_all_bad_reviews": "66.2"
+  },
+  {
+    "sort_order": 2,
+    "part": "B_late_share_of_all_bad_reviews",
+    "delivery_status": "pct_of_1_2_star_from_late_orders",
+    "col1": "33.8",
+    "col2": null,
+    "col3": null,
+    "col4": null,
+    "col5_pct_of_all_bad_reviews": null
+  },
+  {
+    "sort_order": 3,
+    "part": "C_lift",
+    "delivery_status": "late_vs_ontime_bad_review_rate_lift",
+    "col1": "5.86",
+    "col2": null,
+    "col3": null,
+    "col4": null,
+    "col5_pct_of_all_bad_reviews": null
+  }
+]

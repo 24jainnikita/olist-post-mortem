@@ -1,0 +1,64 @@
+File: sql\04b_category_seller_counts.sql
+DB:   C:\Users\Asus\Desktop\olist-ecomm\data\olist.duckdb
+
+==============================================================================================
+  04b_category_seller_counts.sql
+==============================================================================================
++-----------------------------------------+-------------------------+------------------------+
+| category                                | qualifying_seller_count | few_qualifying_sellers |
++-----------------------------------------+-------------------------+------------------------+
+| agro_industry_and_commerce              | 1                       | 1                      |
+| air_conditioning                        | 1                       | 1                      |
+| art                                     | 1                       | 1                      |
+| audio                                   | 5                       | 1                      |
+| auto                                    | 22                      | 0                      |
+| baby                                    | 23                      | 0                      |
+| bed_bath_table                          | 47                      | 0                      |
+| books_general_interest                  | 5                       | 1                      |
+| books_technical                         | 3                       | 1                      |
+| christmas_supplies                      | 2                       | 1                      |
+| computers                               | 1                       | 1                      |
+| computers_accessories                   | 49                      | 0                      |
+| consoles_games                          | 6                       | 1                      |
+| construction_tools_construction         | 5                       | 1                      |
+| construction_tools_lights               | 3                       | 1                      |
+| construction_tools_safety               | 1                       | 1                      |
+| cool_stuff                              | 19                      | 1                      |
+| costruction_tools_garden                | 2                       | 1                      |
+| drinks                                  | 2                       | 1                      |
+| dvds_blu_ray                            | 1                       | 1                      |
+| electronics                             | 11                      | 1                      |
+| fashion_bags_accessories                | 15                      | 1                      |
+| fashion_male_clothing                   | 1                       | 1                      |
+| fashion_shoes                           | 3                       | 1                      |
+| fashion_underwear_beach                 | 1                       | 1                      |
+| fixed_telephony                         | 2                       | 1                      |
+| food                                    | 3                       | 1                      |
+| food_drink                              | 2                       | 1                      |
+| furniture_decor                         | 45                      | 0                      |
+| furniture_living_room                   | 4                       | 1                      |
+| garden_tools                            | 14                      | 1                      |
+| health_beauty                           | 60                      | 0                      |
+| home_appliances                         | 3                       | 1                      |
+| home_appliances_2                       | 1                       | 1                      |
+| home_confort                            | 2                       | 1                      |
+| home_construction                       | 3                       | 1                      |
+| housewares                              | 50                      | 0                      |
+| industry_commerce_and_business          | 2                       | 1                      |
+| kitchen_dining_laundry_garden_furniture | 1                       | 1                      |
+| luggage_accessories                     | 8                       | 1                      |
+| market_place                            | 1                       | 1                      |
+| musical_instruments                     | 6                       | 1                      |
+| office_furniture                        | 4                       | 1                      |
+| perfumery                               | 17                      | 1                      |
+| pet_shop                                | 14                      | 1                      |
+| small_appliances                        | 2                       | 1                      |
+| sports_leisure                          | 61                      | 0                      |
+| stationery                              | 12                      | 1                      |
+| tablets_printing_image                  | 1                       | 1                      |
+| telephony                               | 21                      | 0                      |
+| toys                                    | 31                      | 0                      |
+| unknown                                 | 4                       | 1                      |
+| watches_gifts                           | 22                      | 0                      |
++-----------------------------------------+-------------------------+------------------------+
+  53 rows

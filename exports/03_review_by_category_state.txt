@@ -1,0 +1,88 @@
+File: sql\03_review_by_category_state.sql
+DB:   C:\Users\Asus\Desktop\olist-ecomm\data\olist.duckdb
+
+======================================================================================================================
+  03_review_by_category_state.sql
+======================================================================================================================
++------------+-----------+-----------------------------------------+-------------+------------------+----------------+
+| sort_group | dimension | segment                                 | order_count | avg_review_score | pct_low_review |
++------------+-----------+-----------------------------------------+-------------+------------------+----------------+
+| 1          | category  | office_furniture                        | 1,244       | 3.516            | 25.500         |
+| 1          | category  | fashion_male_clothing                   | 105         | 3.758            | 25.000         |
+| 1          | category  | fixed_telephony                         | 209         | 3.758            | 23.000         |
+| 1          | category  | audio                                   | 345         | 3.838            | 21.500         |
+| 1          | category  | home_confort                            | 390         | 3.852            | 19.700         |
+| 1          | category  | bed_bath_table                          | 9,177       | 3.924            | 18.200         |
+| 1          | category  | furniture_living_room                   | 409         | 3.935            | 17.100         |
+| 1          | category  | unknown                                 | 1,382       | 3.939            | 19.500         |
+| 1          | category  | furniture_decor                         | 6,260       | 3.953            | 18.100         |
+| 1          | category  | home_construction                       | 481         | 3.958            | 17.400         |
+| 1          | category  | construction_tools_safety               | 158         | 3.967            | 17.600         |
+| 1          | category  | computers_accessories                   | 6,499       | 3.987            | 17.000         |
+| 1          | category  | telephony                               | 4,069       | 3.994            | 15.500         |
+| 1          | category  | kitchen_dining_laundry_garden_furniture | 239         | 4.033            | 13.600         |
+| 1          | category  | fashion_underwear_beach                 | 116         | 4.048            | 15.900         |
+| 1          | category  | air_conditioning                        | 242         | 4.053            | 15.500         |
+| 1          | category  | electronics                             | 2,498       | 4.067            | 14.800         |
+| 1          | category  | christmas_supplies                      | 123         | 4.070            | 13.300         |
+| 1          | category  | watches_gifts                           | 5,454       | 4.072            | 14.800         |
+| 1          | category  | market_place                            | 272         | 4.073            | 12.900         |
+| 1          | category  | baby                                    | 2,787       | 4.078            | 14.900         |
+| 1          | category  | art                                     | 193         | 4.082            | 14.400         |
+| 1          | category  | construction_tools_lights               | 239         | 4.082            | 13.700         |
+| 1          | category  | garden_tools                            | 3,428       | 4.084            | 15.000         |
+| 1          | category  | agro_industry_and_commerce              | 177         | 4.087            | 13.600         |
+| 1          | category  | construction_tools_construction         | 731         | 4.091            | 14.100         |
+| 1          | category  | signaling_and_security                  | 137         | 4.092            | 11.700         |
+| 1          | category  | housewares                              | 5,709       | 4.106            | 14.300         |
+| 1          | category  | auto                                    | 3,792       | 4.115            | 13.900         |
+| 1          | category  | costruction_tools_garden                | 190         | 4.116            | 15.500         |
+| 1          | category  | drinks                                  | 287         | 4.119            | 12.500         |
+| 1          | category  | industry_commerce_and_business          | 230         | 4.126            | 13.000         |
+| 1          | category  | consoles_games                          | 1,009       | 4.139            | 12.100         |
+| 1          | category  | home_appliances_2                       | 226         | 4.157            | 12.200         |
+| 1          | category  | sports_leisure                          | 7,486       | 4.165            | 13.000         |
+| 1          | category  | health_beauty                           | 8,601       | 4.190            | 12.500         |
+| 1          | category  | fashion_bags_accessories                | 1,811       | 4.194            | 11.300         |
+| 1          | category  | cool_stuff                              | 3,531       | 4.195            | 11.800         |
+| 1          | category  | toys                                    | 3,774       | 4.208            | 12.200         |
+| 1          | category  | pet_shop                                | 1,680       | 4.217            | 12.100         |
+| 1          | category  | home_appliances                         | 744         | 4.218            | 10.900         |
+| 1          | category  | computers                               | 174         | 4.219            | 11.700         |
+| 1          | category  | perfumery                               | 3,076       | 4.220            | 13.000         |
+| 1          | category  | musical_instruments                     | 605         | 4.222            | 11.900         |
+| 1          | category  | small_appliances                        | 604         | 4.224            | 12.300         |
+| 1          | category  | stationery                              | 2,251       | 4.246            | 11.600         |
+| 1          | category  | food                                    | 437         | 4.263            | 11.700         |
+| 1          | category  | fashion_shoes                           | 231         | 4.281            | 11.100         |
+| 1          | category  | luggage_accessories                     | 1,015       | 4.352            | 8.700          |
+| 1          | category  | food_drink                              | 221         | 4.364            | 6.700          |
+| 1          | category  | books_technical                         | 255         | 4.389            | 10.300         |
+| 1          | category  | books_general_interest                  | 492         | 4.512            | 6.800          |
+| 2          | ---       | --- state results below ---             | NULL        | NULL             | NULL           |
+| 3          | state     | MA                                      | 712         | 3.833            | 19.900         |
+| 3          | state     | AL                                      | 394         | 3.848            | 21.300         |
+| 3          | state     | SE                                      | 334         | 3.907            | 18.900         |
+| 3          | state     | PA                                      | 933         | 3.914            | 17.900         |
+| 3          | state     | BA                                      | 3,229       | 3.931            | 17.000         |
+| 3          | state     | CE                                      | 1,273       | 3.944            | 17.100         |
+| 3          | state     | RJ                                      | 12,211      | 3.965            | 18.300         |
+| 3          | state     | PI                                      | 471         | 3.994            | 16.100         |
+| 3          | state     | PB                                      | 512         | 4.076            | 14.800         |
+| 3          | state     | ES                                      | 1,969       | 4.079            | 13.800         |
+| 3          | state     | PE                                      | 1,579       | 4.083            | 14.800         |
+| 3          | state     | GO                                      | 1,946       | 4.106            | 13.200         |
+| 3          | state     | DF                                      | 2,070       | 4.131            | 13.200         |
+| 3          | state     | SC                                      | 3,519       | 4.134            | 13.000         |
+| 3          | state     | MT                                      | 879         | 4.146            | 12.700         |
+| 3          | state     | RN                                      | 471         | 4.151            | 13.000         |
+| 3          | state     | TO                                      | 273         | 4.154            | 12.100         |
+| 3          | state     | MS                                      | 699         | 4.162            | 13.300         |
+| 3          | state     | RO                                      | 242         | 4.165            | 12.000         |
+| 3          | state     | RS                                      | 5,327       | 4.185            | 11.900         |
+| 3          | state     | MG                                      | 11,285      | 4.192            | 11.800         |
+| 3          | state     | PR                                      | 4,900       | 4.240            | 10.900         |
+| 3          | state     | AM                                      | 144         | 4.243            | 13.200         |
+| 3          | state     | SP                                      | 40,273      | 4.246            | 10.700         |
++------------+-----------+-----------------------------------------+-------------+------------------+----------------+
+  77 rows

@@ -1,0 +1,13 @@
+[
+  {
+    "late_order_count": 7826,
+    "ontime_order_count": 88644,
+    "actual_bad_late": 4142,
+    "actual_bad_ontime": 8130,
+    "ontime_bad_review_rate_pct": 9.22,
+    "expected_bad_from_late": 706.0,
+    "excess_bad_reviews": 3436.0,
+    "total_bad_reviews": 12272,
+    "excess_as_pct_of_all_bad": 28.0
+  }
+]

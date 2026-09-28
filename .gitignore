@@ -1,0 +1,17 @@
+# Data files and database
+data/*.csv
+*.duckdb
+
+# Web/Node
+node_modules/
+web/dist/
+
+# Python
+__pycache__/
+*.pyc
+_probe*.py
+_probe*.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db

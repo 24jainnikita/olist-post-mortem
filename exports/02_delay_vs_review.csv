@@ -1,0 +1,5 @@
+bucket_sort,delay_bucket,order_count,avg_review_score,pct_low_review,orders_without_review
+1,on_time_or_early,88644,4.294,9.2,481
+2,1_to_3_days_late,2662,3.766,19.1,26
+3,4_to_7_days_late,1819,2.316,61.3,46
+4,over_7_days_late,3345,1.727,78.4,93

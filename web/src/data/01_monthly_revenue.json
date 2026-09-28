@@ -1,0 +1,163 @@
+[
+  {
+    "order_month": "2016-09-01T00:00:00",
+    "order_count": 1,
+    "revenue_brl": 134.97,
+    "prev_month_revenue": null,
+    "mom_growth_pct": null
+  },
+  {
+    "order_month": "2016-10-01T00:00:00",
+    "order_count": 265,
+    "revenue_brl": 40325.11,
+    "prev_month_revenue": 134.97,
+    "mom_growth_pct": 29777.1
+  },
+  {
+    "order_month": "2016-12-01T00:00:00",
+    "order_count": 1,
+    "revenue_brl": 10.9,
+    "prev_month_revenue": 40325.10999999997,
+    "mom_growth_pct": -100.0
+  },
+  {
+    "order_month": "2017-01-01T00:00:00",
+    "order_count": 750,
+    "revenue_brl": 111798.36,
+    "prev_month_revenue": 10.9,
+    "mom_growth_pct": 1025573.0
+  },
+  {
+    "order_month": "2017-02-01T00:00:00",
+    "order_count": 1653,
+    "revenue_brl": 234223.4,
+    "prev_month_revenue": 111798.35999999993,
+    "mom_growth_pct": 109.5
+  },
+  {
+    "order_month": "2017-03-01T00:00:00",
+    "order_count": 2546,
+    "revenue_brl": 359198.85,
+    "prev_month_revenue": 234223.4000000006,
+    "mom_growth_pct": 53.4
+  },
+  {
+    "order_month": "2017-04-01T00:00:00",
+    "order_count": 2303,
+    "revenue_brl": 340669.68,
+    "prev_month_revenue": 359198.8500000007,
+    "mom_growth_pct": -5.2
+  },
+  {
+    "order_month": "2017-05-01T00:00:00",
+    "order_count": 3546,
+    "revenue_brl": 489338.25,
+    "prev_month_revenue": 340669.6800000007,
+    "mom_growth_pct": 43.6
+  },
+  {
+    "order_month": "2017-06-01T00:00:00",
+    "order_count": 3135,
+    "revenue_brl": 421923.37,
+    "prev_month_revenue": 489338.2500000001,
+    "mom_growth_pct": -13.8
+  },
+  {
+    "order_month": "2017-07-01T00:00:00",
+    "order_count": 3872,
+    "revenue_brl": 481604.52,
+    "prev_month_revenue": 421923.37000000046,
+    "mom_growth_pct": 14.1
+  },
+  {
+    "order_month": "2017-08-01T00:00:00",
+    "order_count": 4193,
+    "revenue_brl": 554699.7,
+    "prev_month_revenue": 481604.5200000001,
+    "mom_growth_pct": 15.2
+  },
+  {
+    "order_month": "2017-09-01T00:00:00",
+    "order_count": 4150,
+    "revenue_brl": 607399.67,
+    "prev_month_revenue": 554699.6999999991,
+    "mom_growth_pct": 9.5
+  },
+  {
+    "order_month": "2017-10-01T00:00:00",
+    "order_count": 4478,
+    "revenue_brl": 648247.65,
+    "prev_month_revenue": 607399.6699999993,
+    "mom_growth_pct": 6.7
+  },
+  {
+    "order_month": "2017-11-01T00:00:00",
+    "order_count": 7289,
+    "revenue_brl": 987765.37,
+    "prev_month_revenue": 648247.6499999993,
+    "mom_growth_pct": 52.4
+  },
+  {
+    "order_month": "2017-12-01T00:00:00",
+    "order_count": 5513,
+    "revenue_brl": 726033.19,
+    "prev_month_revenue": 987765.3699999928,
+    "mom_growth_pct": -26.5
+  },
+  {
+    "order_month": "2018-01-01T00:00:00",
+    "order_count": 7069,
+    "revenue_brl": 924645.0,
+    "prev_month_revenue": 726033.1899999977,
+    "mom_growth_pct": 27.4
+  },
+  {
+    "order_month": "2018-02-01T00:00:00",
+    "order_count": 6555,
+    "revenue_brl": 826437.13,
+    "prev_month_revenue": 924644.9999999938,
+    "mom_growth_pct": -10.6
+  },
+  {
+    "order_month": "2018-03-01T00:00:00",
+    "order_count": 7003,
+    "revenue_brl": 953356.25,
+    "prev_month_revenue": 826437.1299999957,
+    "mom_growth_pct": 15.4
+  },
+  {
+    "order_month": "2018-04-01T00:00:00",
+    "order_count": 6798,
+    "revenue_brl": 973534.09,
+    "prev_month_revenue": 953356.2499999935,
+    "mom_growth_pct": 2.1
+  },
+  {
+    "order_month": "2018-05-01T00:00:00",
+    "order_count": 6749,
+    "revenue_brl": 977544.69,
+    "prev_month_revenue": 973534.089999994,
+    "mom_growth_pct": 0.4
+  },
+  {
+    "order_month": "2018-06-01T00:00:00",
+    "order_count": 6099,
+    "revenue_brl": 856077.86,
+    "prev_month_revenue": 977544.6899999946,
+    "mom_growth_pct": -12.4
+  },
+  {
+    "order_month": "2018-07-01T00:00:00",
+    "order_count": 6159,
+    "revenue_brl": 867953.46,
+    "prev_month_revenue": 856077.8599999968,
+    "mom_growth_pct": 1.4
+  },
+  {
+    "order_month": "2018-08-01T00:00:00",
+    "order_count": 6351,
+    "revenue_brl": 838576.64,
+    "prev_month_revenue": 867953.4599999959,
+    "mom_growth_pct": -3.4
+  }
+]

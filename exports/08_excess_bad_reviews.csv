@@ -1,0 +1,2 @@
+late_order_count,ontime_order_count,actual_bad_late,actual_bad_ontime,ontime_bad_review_rate_pct,expected_bad_from_late,excess_bad_reviews,total_bad_reviews,excess_as_pct_of_all_bad
+7826,88644,4142,8130,9.22,706.0,3436.0,12272,28.0

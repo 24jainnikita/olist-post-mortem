@@ -1,0 +1,5 @@
+sort_order,part,metric,val_1,val_2,val_3,val_4,val_5
+1,summary,repeat_rate,93358,2801,3.0,1.033,15
+2,bucket_breakdown,1_order,90557,97.0,,,
+2,bucket_breakdown,2_orders,2573,2.76,,,
+2,bucket_breakdown,3_or_more_orders,228,0.24,,,

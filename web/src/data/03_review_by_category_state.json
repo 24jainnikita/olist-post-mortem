@@ -1,0 +1,618 @@
+[
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "office_furniture",
+    "order_count": 1244,
+    "avg_review_score": 3.516,
+    "pct_low_review": 25.5
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "fixed_telephony",
+    "order_count": 209,
+    "avg_review_score": 3.758,
+    "pct_low_review": 23.0
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "fashion_male_clothing",
+    "order_count": 105,
+    "avg_review_score": 3.758,
+    "pct_low_review": 25.0
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "audio",
+    "order_count": 345,
+    "avg_review_score": 3.838,
+    "pct_low_review": 21.5
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "home_confort",
+    "order_count": 390,
+    "avg_review_score": 3.852,
+    "pct_low_review": 19.7
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "bed_bath_table",
+    "order_count": 9177,
+    "avg_review_score": 3.924,
+    "pct_low_review": 18.2
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "furniture_living_room",
+    "order_count": 409,
+    "avg_review_score": 3.935,
+    "pct_low_review": 17.1
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "unknown",
+    "order_count": 1382,
+    "avg_review_score": 3.939,
+    "pct_low_review": 19.5
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "furniture_decor",
+    "order_count": 6260,
+    "avg_review_score": 3.953,
+    "pct_low_review": 18.1
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "home_construction",
+    "order_count": 481,
+    "avg_review_score": 3.958,
+    "pct_low_review": 17.4
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "construction_tools_safety",
+    "order_count": 158,
+    "avg_review_score": 3.967,
+    "pct_low_review": 17.6
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "computers_accessories",
+    "order_count": 6499,
+    "avg_review_score": 3.987,
+    "pct_low_review": 17.0
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "telephony",
+    "order_count": 4069,
+    "avg_review_score": 3.994,
+    "pct_low_review": 15.5
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "kitchen_dining_laundry_garden_furniture",
+    "order_count": 239,
+    "avg_review_score": 4.033,
+    "pct_low_review": 13.6
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "fashion_underwear_beach",
+    "order_count": 116,
+    "avg_review_score": 4.048,
+    "pct_low_review": 15.9
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "air_conditioning",
+    "order_count": 242,
+    "avg_review_score": 4.053,
+    "pct_low_review": 15.5
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "electronics",
+    "order_count": 2498,
+    "avg_review_score": 4.067,
+    "pct_low_review": 14.8
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "christmas_supplies",
+    "order_count": 123,
+    "avg_review_score": 4.07,
+    "pct_low_review": 13.3
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "watches_gifts",
+    "order_count": 5454,
+    "avg_review_score": 4.072,
+    "pct_low_review": 14.8
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "market_place",
+    "order_count": 272,
+    "avg_review_score": 4.073,
+    "pct_low_review": 12.9
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "baby",
+    "order_count": 2787,
+    "avg_review_score": 4.078,
+    "pct_low_review": 14.9
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "art",
+    "order_count": 193,
+    "avg_review_score": 4.082,
+    "pct_low_review": 14.4
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "construction_tools_lights",
+    "order_count": 239,
+    "avg_review_score": 4.082,
+    "pct_low_review": 13.7
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "garden_tools",
+    "order_count": 3428,
+    "avg_review_score": 4.084,
+    "pct_low_review": 15.0
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "agro_industry_and_commerce",
+    "order_count": 177,
+    "avg_review_score": 4.087,
+    "pct_low_review": 13.6
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "construction_tools_construction",
+    "order_count": 731,
+    "avg_review_score": 4.091,
+    "pct_low_review": 14.1
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "signaling_and_security",
+    "order_count": 137,
+    "avg_review_score": 4.092,
+    "pct_low_review": 11.7
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "housewares",
+    "order_count": 5709,
+    "avg_review_score": 4.106,
+    "pct_low_review": 14.3
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "auto",
+    "order_count": 3792,
+    "avg_review_score": 4.115,
+    "pct_low_review": 13.9
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "costruction_tools_garden",
+    "order_count": 190,
+    "avg_review_score": 4.116,
+    "pct_low_review": 15.5
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "drinks",
+    "order_count": 287,
+    "avg_review_score": 4.119,
+    "pct_low_review": 12.5
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "industry_commerce_and_business",
+    "order_count": 230,
+    "avg_review_score": 4.126,
+    "pct_low_review": 13.0
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "consoles_games",
+    "order_count": 1009,
+    "avg_review_score": 4.139,
+    "pct_low_review": 12.1
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "home_appliances_2",
+    "order_count": 226,
+    "avg_review_score": 4.157,
+    "pct_low_review": 12.2
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "sports_leisure",
+    "order_count": 7486,
+    "avg_review_score": 4.165,
+    "pct_low_review": 13.0
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "health_beauty",
+    "order_count": 8601,
+    "avg_review_score": 4.19,
+    "pct_low_review": 12.5
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "fashion_bags_accessories",
+    "order_count": 1811,
+    "avg_review_score": 4.194,
+    "pct_low_review": 11.3
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "cool_stuff",
+    "order_count": 3531,
+    "avg_review_score": 4.195,
+    "pct_low_review": 11.8
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "toys",
+    "order_count": 3774,
+    "avg_review_score": 4.208,
+    "pct_low_review": 12.2
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "pet_shop",
+    "order_count": 1680,
+    "avg_review_score": 4.217,
+    "pct_low_review": 12.1
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "home_appliances",
+    "order_count": 744,
+    "avg_review_score": 4.218,
+    "pct_low_review": 10.9
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "computers",
+    "order_count": 174,
+    "avg_review_score": 4.219,
+    "pct_low_review": 11.7
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "perfumery",
+    "order_count": 3076,
+    "avg_review_score": 4.22,
+    "pct_low_review": 13.0
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "musical_instruments",
+    "order_count": 605,
+    "avg_review_score": 4.222,
+    "pct_low_review": 11.9
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "small_appliances",
+    "order_count": 604,
+    "avg_review_score": 4.224,
+    "pct_low_review": 12.3
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "stationery",
+    "order_count": 2251,
+    "avg_review_score": 4.246,
+    "pct_low_review": 11.6
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "food",
+    "order_count": 437,
+    "avg_review_score": 4.263,
+    "pct_low_review": 11.7
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "fashion_shoes",
+    "order_count": 231,
+    "avg_review_score": 4.281,
+    "pct_low_review": 11.1
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "luggage_accessories",
+    "order_count": 1015,
+    "avg_review_score": 4.352,
+    "pct_low_review": 8.7
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "food_drink",
+    "order_count": 221,
+    "avg_review_score": 4.364,
+    "pct_low_review": 6.7
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "books_technical",
+    "order_count": 255,
+    "avg_review_score": 4.389,
+    "pct_low_review": 10.3
+  },
+  {
+    "sort_group": 1,
+    "dimension": "category",
+    "segment": "books_general_interest",
+    "order_count": 492,
+    "avg_review_score": 4.512,
+    "pct_low_review": 6.8
+  },
+  {
+    "sort_group": 2,
+    "dimension": "---",
+    "segment": "--- state results below ---",
+    "order_count": null,
+    "avg_review_score": null,
+    "pct_low_review": null
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "MA",
+    "order_count": 712,
+    "avg_review_score": 3.833,
+    "pct_low_review": 19.9
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "AL",
+    "order_count": 394,
+    "avg_review_score": 3.848,
+    "pct_low_review": 21.3
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "SE",
+    "order_count": 334,
+    "avg_review_score": 3.907,
+    "pct_low_review": 18.9
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "PA",
+    "order_count": 933,
+    "avg_review_score": 3.914,
+    "pct_low_review": 17.9
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "BA",
+    "order_count": 3229,
+    "avg_review_score": 3.931,
+    "pct_low_review": 17.0
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "CE",
+    "order_count": 1273,
+    "avg_review_score": 3.944,
+    "pct_low_review": 17.1
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "RJ",
+    "order_count": 12211,
+    "avg_review_score": 3.965,
+    "pct_low_review": 18.3
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "PI",
+    "order_count": 471,
+    "avg_review_score": 3.994,
+    "pct_low_review": 16.1
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "PB",
+    "order_count": 512,
+    "avg_review_score": 4.076,
+    "pct_low_review": 14.8
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "ES",
+    "order_count": 1969,
+    "avg_review_score": 4.079,
+    "pct_low_review": 13.8
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "PE",
+    "order_count": 1579,
+    "avg_review_score": 4.083,
+    "pct_low_review": 14.8
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "GO",
+    "order_count": 1946,
+    "avg_review_score": 4.106,
+    "pct_low_review": 13.2
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "DF",
+    "order_count": 2070,
+    "avg_review_score": 4.131,
+    "pct_low_review": 13.2
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "SC",
+    "order_count": 3519,
+    "avg_review_score": 4.134,
+    "pct_low_review": 13.0
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "MT",
+    "order_count": 879,
+    "avg_review_score": 4.146,
+    "pct_low_review": 12.7
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "RN",
+    "order_count": 471,
+    "avg_review_score": 4.151,
+    "pct_low_review": 13.0
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "TO",
+    "order_count": 273,
+    "avg_review_score": 4.154,
+    "pct_low_review": 12.1
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "MS",
+    "order_count": 699,
+    "avg_review_score": 4.162,
+    "pct_low_review": 13.3
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "RO",
+    "order_count": 242,
+    "avg_review_score": 4.165,
+    "pct_low_review": 12.0
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "RS",
+    "order_count": 5327,
+    "avg_review_score": 4.185,
+    "pct_low_review": 11.9
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "MG",
+    "order_count": 11285,
+    "avg_review_score": 4.192,
+    "pct_low_review": 11.8
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "PR",
+    "order_count": 4900,
+    "avg_review_score": 4.24,
+    "pct_low_review": 10.9
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "AM",
+    "order_count": 144,
+    "avg_review_score": 4.243,
+    "pct_low_review": 13.2
+  },
+  {
+    "sort_group": 3,
+    "dimension": "state",
+    "segment": "SP",
+    "order_count": 40273,
+    "avg_review_score": 4.246,
+    "pct_low_review": 10.7
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "category": "agro_industry_and_commerce",
+    "qualifying_seller_count": 1,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "air_conditioning",
+    "qualifying_seller_count": 1,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "art",
+    "qualifying_seller_count": 1,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "audio",
+    "qualifying_seller_count": 5,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "auto",
+    "qualifying_seller_count": 22,
+    "few_qualifying_sellers": false
+  },
+  {
+    "category": "baby",
+    "qualifying_seller_count": 23,
+    "few_qualifying_sellers": false
+  },
+  {
+    "category": "bed_bath_table",
+    "qualifying_seller_count": 47,
+    "few_qualifying_sellers": false
+  },
+  {
+    "category": "books_general_interest",
+    "qualifying_seller_count": 5,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "books_technical",
+    "qualifying_seller_count": 3,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "christmas_supplies",
+    "qualifying_seller_count": 2,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "computers",
+    "qualifying_seller_count": 1,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "computers_accessories",
+    "qualifying_seller_count": 49,
+    "few_qualifying_sellers": false
+  },
+  {
+    "category": "consoles_games",
+    "qualifying_seller_count": 6,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "construction_tools_construction",
+    "qualifying_seller_count": 5,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "construction_tools_lights",
+    "qualifying_seller_count": 3,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "construction_tools_safety",
+    "qualifying_seller_count": 1,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "cool_stuff",
+    "qualifying_seller_count": 19,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "costruction_tools_garden",
+    "qualifying_seller_count": 2,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "drinks",
+    "qualifying_seller_count": 2,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "dvds_blu_ray",
+    "qualifying_seller_count": 1,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "electronics",
+    "qualifying_seller_count": 11,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "fashion_bags_accessories",
+    "qualifying_seller_count": 15,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "fashion_male_clothing",
+    "qualifying_seller_count": 1,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "fashion_shoes",
+    "qualifying_seller_count": 3,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "fashion_underwear_beach",
+    "qualifying_seller_count": 1,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "fixed_telephony",
+    "qualifying_seller_count": 2,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "food",
+    "qualifying_seller_count": 3,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "food_drink",
+    "qualifying_seller_count": 2,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "furniture_decor",
+    "qualifying_seller_count": 45,
+    "few_qualifying_sellers": false
+  },
+  {
+    "category": "furniture_living_room",
+    "qualifying_seller_count": 4,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "garden_tools",
+    "qualifying_seller_count": 14,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "health_beauty",
+    "qualifying_seller_count": 60,
+    "few_qualifying_sellers": false
+  },
+  {
+    "category": "home_appliances",
+    "qualifying_seller_count": 3,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "home_appliances_2",
+    "qualifying_seller_count": 1,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "home_confort",
+    "qualifying_seller_count": 2,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "home_construction",
+    "qualifying_seller_count": 3,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "housewares",
+    "qualifying_seller_count": 50,
+    "few_qualifying_sellers": false
+  },
+  {
+    "category": "industry_commerce_and_business",
+    "qualifying_seller_count": 2,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "kitchen_dining_laundry_garden_furniture",
+    "qualifying_seller_count": 1,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "luggage_accessories",
+    "qualifying_seller_count": 8,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "market_place",
+    "qualifying_seller_count": 1,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "musical_instruments",
+    "qualifying_seller_count": 6,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "office_furniture",
+    "qualifying_seller_count": 4,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "perfumery",
+    "qualifying_seller_count": 17,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "pet_shop",
+    "qualifying_seller_count": 14,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "small_appliances",
+    "qualifying_seller_count": 2,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "sports_leisure",
+    "qualifying_seller_count": 61,
+    "few_qualifying_sellers": false
+  },
+  {
+    "category": "stationery",
+    "qualifying_seller_count": 12,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "tablets_printing_image",
+    "qualifying_seller_count": 1,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "telephony",
+    "qualifying_seller_count": 21,
+    "few_qualifying_sellers": false
+  },
+  {
+    "category": "toys",
+    "qualifying_seller_count": 31,
+    "few_qualifying_sellers": false
+  },
+  {
+    "category": "unknown",
+    "qualifying_seller_count": 4,
+    "few_qualifying_sellers": true
+  },
+  {
+    "category": "watches_gifts",
+    "qualifying_seller_count": 22,
+    "few_qualifying_sellers": false
+  }
+]
