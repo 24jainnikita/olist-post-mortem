@@ -3,7 +3,7 @@
 An analysis of the Olist Brazilian e-commerce dataset to identify the core drivers of bad reviews and prioritize solutions.
 
 ## Live Demo
-[View the Interactive Post-Mortem Web App](#) *(Placeholder)*
+[View the Interactive Post-Mortem Web App](https://24jainnikita.github.io/olist-post-mortem/)
 
 ## Key Findings
 - **Delivery Delays Wreck Customer Experience**: The bad-review rate jumps from 9.22% for on-time orders to 54.07% for late orders (a 5.9x lift).
