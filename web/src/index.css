@@ -1,8 +1,11 @@
 :root {
   --color-bg: #11100f;
+  --color-bg-alt: #161514;
+  --color-bg-alt2: #191817;
   --color-text: #f5f4f1;
   --color-text-muted: #a3a099;
-  --color-accent: #f2a33a;
+  --color-accent: #f2a33a;       /* Bad/Negative */
+  --color-good: #4a9d94;         /* Good/Baseline */
   --color-surface: #1c1b1a;
   
   --font-headline: 'Fraunces', serif;
@@ -73,9 +76,8 @@ h4 { font-size: var(--text-xl); }
   font-weight: 500;
 }
 
-.accent {
-  color: var(--color-accent);
-}
+.accent { color: var(--color-accent); }
+.good { color: var(--color-good); }
 
 section {
   min-height: 100vh;
@@ -83,8 +85,20 @@ section {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  width: 100%;
+}
+
+.container {
   max-width: 1200px;
+  width: 100%;
   margin: 0 auto;
+}
+
+section:nth-of-type(even) {
+  background-color: var(--color-bg-alt);
+}
+section:nth-of-type(3n) {
+  background-color: var(--color-bg-alt2);
 }
 
 section:not(:first-child) {

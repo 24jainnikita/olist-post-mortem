@@ -1,42 +1,28 @@
+import React, { Suspense } from 'react';
 import './index.css';
 import { Opening } from './components/Opening';
 import { Scale } from './components/Scale';
+import { Suspect } from './components/Suspect';
+import { Evidence } from './components/Evidence';
+import { Twist } from './components/Twist';
+import { Verdict } from './components/Verdict';
+import { Methodology } from './components/Methodology';
+
+const CohortHeatmap = React.lazy(() => import('./components/CohortHeatmap').then(m => ({ default: m.CohortHeatmap })));
 
 function App() {
   return (
     <main>
       <Opening />
       <Scale />
-
-      <section id="suspect">
-        <h2>Suspect</h2>
-        <p className="data-number accent">Placeholder for parcel-journey timeline</p>
-      </section>
-
-      <section id="evidence">
-        <h2>Evidence</h2>
-        <p className="data-number accent">Placeholder for delay-threshold slider and map</p>
-      </section>
-
-      <section id="twist">
-        <h2>Twist</h2>
-        <p className="data-number accent">Placeholder for worst categories / sellers</p>
-      </section>
-
-      <section id="cohort-heatmap">
-        <h2>Cohort Heatmap</h2>
-        <p className="data-number accent">Placeholder for cohort retention matrix</p>
-      </section>
-
-      <section id="verdict">
-        <h2>Verdict</h2>
-        <p className="data-number accent">Placeholder for recommendations</p>
-      </section>
-
-      <section id="methodology">
-        <h2>Methodology</h2>
-        <p className="data-number accent">Placeholder for data gathering info</p>
-      </section>
+      <Suspect />
+      <Evidence />
+      <Twist />
+      <Suspense fallback={<div style={{ height: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>Loading heatmap...</div>}>
+        <CohortHeatmap />
+      </Suspense>
+      <Verdict />
+      <Methodology />
     </main>
   );
 }
